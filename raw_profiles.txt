@@ -1,0 +1,79 @@
+Nucor Corporation logo
+Computer Engineering Intern
+Computer Engineering Intern
+Nucor Corporation · InternshipNucor Corporation · Internship
+Feb 2025 - Present · 2 mosFeb 2025 to Present · 2 mos
+Memphis, Tennessee, United States · On-siteMemphis, Tennessee, United States · On-site
+Incoming ECE intern
+Incoming ECE intern
+
+Purdue National Defense Society logo
+Sentry Project Lead , Radar and Computer Vision Lead
+Sentry Project Lead , Radar and Computer Vision Lead
+Purdue National Defense Society · Full-timePurdue National Defense Society · Full-time
+Aug 2024 - Present · 8 mosAug 2024 to Present · 8 mos
+West Lafayette, Indiana, United States · On-siteWest Lafayette, Indiana, United States · On-site
+Technical Projects - Sentry Team:
+- Developed a radar-less targeting system that leveraged computer vision for accurate object detection, tracking, and elimination 
+- Worked on a small team of students to develop a mobile, durable, and cost-effective sentry system that can detect, target, and destroy small enemy aircraft such as drones
+ -Worked with Texas Instruments mmWave radar sensors to develop an accurate active radar detection and targeting system
+- Wrote code to establish and coordinate communication between the active radar system and the mechanical system to aim and sustain target lock on aerial targets
+Technical Projects - Sentry Team: - Developed a radar-less targeting system that leveraged computer vision for accurate object detection, tracking, and elimination - Worked on a small team of students to develop a mobile, durable, and cost-effective sentry system that can detect, target, and destroy small enemy aircraft such as drones -Worked with Texas Instruments mmWave radar sensors to develop an accurate active radar detection and targeting system - Wrote code to establish and coordinate communication between the active radar system and the mechanical system to aim and sustain target lock on aerial targets
+Skills: Software Design · Engineering · C (Programming Language) · Radar · Programmable Logic Controller (PLC) · Electronics
+Skills: Software Design · Engineering · C (Programming Language) · Radar · Programmable Logic Controller (PLC) · Electronics
+
+Purdue Aerial Robotics logo
+Research and Development Wing - Avionics
+Research and Development Wing - Avionics
+Purdue Aerial Robotics · Full-timePurdue Aerial Robotics · Full-time
+Aug 2024 - Present · 8 mosAug 2024 to Present · 8 mos
+West Lafayette, Indiana, United States · On-siteWest Lafayette, Indiana, United States · On-site
+Research and Development Wing - Avionics Sub team: 
+-Worked with the Avionics Sub team to research, develop, test, and operate autonomous flying systems.
+-Worked with avionics, wiring diagrams, flight control software, test engineering principles, and Arduino
+-Developed a program that allowed testing of rotors by enabling live user control of rotor power while collecting/exporting accurately formatted live data from the loadcell and serial port to a .csv file
+-Led a special project on AI, computer vision, optical flow, and autonomous systems to research and develop a radar-less autonomous drone detection and avoidance system
+Research and Development Wing - Avionics Sub team: -Worked with the Avionics Sub team to research, develop, test, and operate autonomous flying systems. -Worked with avionics, wiring diagrams, flight control software, test engineering principles, and Arduino -Developed a program that allowed testing of rotors by enabling live user control of rotor power while collecting/exporting accurately formatted live data from the loadcell and serial port to a .csv file -Led a special project on AI, computer vision, optical flow, and autonomous systems to research and develop a radar-less autonomous drone detection and avoidance system
+Skills: Avionics · Avionics Design · Avionics Integration · Arduino · Arduino IDE · Data Analysis · Microsoft Excel · Python (Programming Language) · C++ · ArduPilot
+Skills: Avionics · Avionics Design · Avionics Integration · Arduino · Arduino IDE · Data Analysis · Microsoft Excel · Python (Programming Language) · C++ · ArduPilot
+
+Coding With Kids logo
+Teacher
+Teacher
+Coding With Kids · Full-timeCoding With Kids · Full-time
+Dec 2023 - Aug 2024 · 9 mosDec 2023 to Aug 2024 · 9 mos
+Rockville, Maryland, United States · HybridRockville, Maryland, United States · Hybrid
+Class: Python instruction
+– Was the primary instructor of computer science class using the language python
+– Instructed students in using Spyder IDE and how to import, manage, and use libraries such as NumPy, and MatPlotLib
+– Applied fundamental concepts of programming such as data types and structures, flow control structures, algorithms,
+and functional programming in order to manipulate variables, solve problems, and visualize data
+– Taught the concept of object oriented programming by instructing students on how to use objects, methods, and classes
+Class: Introductory Robotics
+– Secondary instructor of a robotics class on the EdisonV3 Robot and it’s Scratch-based vertical block-based programming language EdScratch
+– Taught the fundamentals of programming like loops, conditionals, math operations, functions, and algorithms- as well as how to apply them in robotics
+– Designed obstacle courses and created unique challenges for students to apply their knowledge
+Class: Python instruction – Was the primary instructor of computer science class using the language python – Instructed students in using Spyder IDE and how to import, manage, and use libraries such as NumPy, and MatPlotLib – Applied fundamental concepts of programming such as data types and structures, flow control structures, algorithms, and functional programming in order to manipulate variables, solve problems, and visualize data – Taught the concept of object oriented programming by instructing students on how to use objects, methods, and classes Class: Introductory Robotics – Secondary instructor of a robotics class on the EdisonV3 Robot and it’s Scratch-based vertical block-based programming language EdScratch – Taught the fundamentals of programming like loops, conditionals, math operations, functions, and algorithms- as well as how to apply them in robotics – Designed obstacle courses and created unique challenges for students to apply their knowledge
+Skills: Python (Programming Language) · Pandas (Software) · NumPy · Leadership · Teaching · Scratch · Robotics
+Skills: Python (Programming Language) · Pandas (Software) · NumPy · Leadership · Teaching · Scratch · Robotics
+
+Vacasa logo
+Lifeguard
+Lifeguard
+Vacasa · SeasonalVacasa · Seasonal
+Jul 2021 - Aug 2024 · 3 yrs 2 mosJul 2021 to Aug 2024 · 3 yrs 2 mos
+Bethany Beach, Delaware, United States · On-siteBethany Beach, Delaware, United States · On-site
+Worked as a seasonal Lifeguard for Sea colony aquatics
+Worked as a seasonal Lifeguard for Sea colony aquatics
+Skills: Lifesaving · Lifeguarding · Time Management
+Skills: Lifesaving · Lifeguarding · Time Management
+
+NASA Goddard Space Flight Center logo
+Intern
+Intern
+NASA Goddard Space Flight Center · InternshipNASA Goddard Space Flight Center · Internship
+May 2022 - Aug 2022 · 4 mosMay 2022 to Aug 2022 · 4 mos
+On-siteOn-site
+Quantum communications Intern 
+Designed quantum circuits 
+Modified shors algorithm to perform certain factorizations in polynomial time
